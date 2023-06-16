@@ -6,8 +6,9 @@
         <title>Version 2.0</title>
         <description>desc Версия</description>
         <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
-        <enclosure url="https://appstoreconnect.apple.com/apps/1583365946/testflight/ios" sparkle:version="1.0.0" />
-        <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
+        <enclosure url="https://appstoreconnect.apple.com/apps/1583365946/testflight/ios" sparkle:version="0.0.9" />
+        <sparkle:ignoreSkippedUpgradesBelowVersion>1.0.0</sparkle:ignoreSkippedUpgradesBelowVersion>
+        <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
     </item>
     <!-- The best chosen release -->
     <item>
