@@ -8,7 +8,7 @@
         <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
         <enclosure url="https://appstoreconnect.apple.com/apps/1583365946/testflight/ios" sparkle:version="0.0.9" />
         <!-- <sparkle:ignoreSkippedUpgradesBelowVersion>1.0.0</sparkle:ignoreSkippedUpgradesBelowVersion> -->
-        <sparkle:version>2.1.0</sparkle:version>
+        <sparkle:version>0.0.9</sparkle:version>
         <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
     </item>
