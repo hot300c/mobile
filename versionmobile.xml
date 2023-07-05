@@ -4,7 +4,7 @@
     <title>For</title>
     <item>
         <title>Version 2.0</title>
-        <description>Mo ta Phucnnd</description>
+        <description>Nâng cấp phiên bản Ios</description>
         <pubDate>Sat, 26 Jul 2023 15:20:11 +0000</pubDate>
         <enclosure url="https://appstoreconnect.apple.com/apps/1583365946/testflight/ios" 
             sparkle:os="iOS"
@@ -15,8 +15,18 @@
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
     </item>
     <!-- The best chosen release -->
-    <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury"
+    <item>
+        <title>Version 2.0</title>
+        <description>Nâng cấp phiên bản Android</description>
+        <pubDate>Sat, 26 Jul 2023 15:20:11 +0000</pubDate>
+        <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury"
             sparkle:version="1.15.0" sparkle:os="android" />
+        <!-- <sparkle:ignoreSkippedUpgradesBelowVersion>1.0.0</sparkle:ignoreSkippedUpgradesBelowVersion> -->
+        <sparkle:version>1.0.0</sparkle:version>
+        <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
+        <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
+    </item>
+    
     <!-- <item>
         <title>Version 3.0</title>
         <enclosure url="http://localhost:1337/Sparkle_Test_App.zip"
