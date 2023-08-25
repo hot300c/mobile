@@ -4,7 +4,7 @@
     <channel>
         <title>FORCE UPGRADE MOBILE APP VERSION</title>
         <item>
-            <title>Version 1.1.41</title>
+            <title>Upgrad IOS Version 1.1.41</title>
             <description>Nâng cấp phiên bản IOS</description>
             <pubDate>Thu, 25 Aug 2023 15:20:11 +0000</pubDate>
             <enclosure url="https://apps.apple.com/vn/app/vivu-car/id6449359819" sparkle:os="ios" sparkle:shortVersionString="1.1.41" sparkle:version="1.1.41" />
@@ -17,18 +17,24 @@
                 <sparkle:criticalUpdate />
             </sparkle:tags> -->
         </item>
+
         <!-- The best chosen release -->
         <item>
-            <title>Version 2.0</title>
+            <title>Upgrad Android Version 1.1.41</title>
             <description>Nâng cấp phiên bản Android</description>
-            <pubDate>Sat, 26 Jul 2023 15:20:11 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="1.15.0" sparkle:os="android" />
+            <pubDate>Thu, 25 Aug 2023 15:20:11 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=vn.phn.rentcar&pli=1" sparkle:os="android" sparkle:version="1.1.41"/>
             <!-- <sparkle:ignoreSkippedUpgradesBelowVersion>1.0.0</sparkle:ignoreSkippedUpgradesBelowVersion> -->
-            <sparkle:version>1.0.0</sparkle:version>
+
+            <!-- <sparkle:version>1.0.0</sparkle:version>
             <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
             <sparkle:tags>
                 <sparkle:criticalUpdate />
-            </sparkle:tags>
+            </sparkle:tags> -->
+
+            <sparkle:version>1.1.41</sparkle:version>
+            <sparkle:shortVersionString>1.1.41</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>1.1.41</sparkle:minimumSystemVersion>
         </item>
 
         <!-- <item>
