@@ -2,14 +2,15 @@
 <rss version="2.0"
     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>For</title>
+        <title>FORCE UPGRADE MOBILE APP VERSION</title>
         <item>
-            <title>Version 2.0</title>
+            <title>Version 1.1.41</title>
             <description>Nâng cấp phiên bản IOS</description>
             <pubDate>Sat, 26 Jul 2023 15:20:11 +0000</pubDate>
             <enclosure url="https://apps.apple.com/vn/app/vivu-car/id6449359819" sparkle:os="iOS" sparkle:version="1.1.35" />
             <!-- <sparkle:ignoreSkippedUpgradesBelowVersion>1.0.0</sparkle:ignoreSkippedUpgradesBelowVersion> -->
-            <sparkle:version>1.0.0</sparkle:version>
+            <sparkle:version>1.1.41</sparkle:version>
+            <sparkle:shortVersionString>1.1.41</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>1.1.35</sparkle:minimumSystemVersion>
             <sparkle:tags>
                 <sparkle:criticalUpdate />
