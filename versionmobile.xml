@@ -23,7 +23,7 @@
             <title>Upgrad Android Version 1.1.41</title>
             <description>Nâng cấp phiên bản Android</description>
             <pubDate>Thu, 25 Aug 2023 15:20:11 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=vn.phn.rentcar&pli=1" sparkle:os="android" sparkle:version="1.1.41"/>
+            <enclosure url="https://play.google.com/store/apps/details?id=vn.phn.rentcar&pli=1" sparkle:os="android" sparkle:version="1.1.45"/>
             <!-- <sparkle:ignoreSkippedUpgradesBelowVersion>1.0.0</sparkle:ignoreSkippedUpgradesBelowVersion> -->
 
             <!-- <sparkle:version>1.0.0</sparkle:version>
@@ -32,9 +32,9 @@
                 <sparkle:criticalUpdate />
             </sparkle:tags> -->
 
-            <sparkle:version>1.1.41</sparkle:version>
-            <sparkle:shortVersionString>1.1.41</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>1.1.41</sparkle:minimumSystemVersion>
+            <sparkle:version>1.1.45</sparkle:version>
+            <sparkle:shortVersionString>1.1.45</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>1.1.45</sparkle:minimumSystemVersion>
         </item>
 
         <!-- <item>
